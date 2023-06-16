@@ -4,6 +4,7 @@ import java.io.*;
 import java.net.Socket;
 import java.nio.file.Path;
 
+//https://github.com/llutsefer/SocketCircleDraw?fbclid=IwAR32seN_ig-xVPuP5_7w4vlZO8j7csVVKz5l3uzjXkVT6tGpDEPCSpbpztw
 /*
 laczenie klienta z aplikacja gui:
 - pakowanie do pliku jar
